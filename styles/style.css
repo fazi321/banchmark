@@ -130,7 +130,7 @@ body{
 }
 .second-section .right-img-container{
     background-blend-mode: normal, multiply;
-    background: linear-gradient(rgba(39, 32, 142, 0.79), rgba(39, 32, 142, 0.83)), url(../asstes/images/girl.jpg) no-repeat;
+    background-image: url("../asstes/images/blue.jpg");
     background-size: cover;
 }
 .second-section .col-sm-6{
@@ -337,15 +337,17 @@ body{
 
 /* section 6 start */
 .section-six .main-wrapper{
-    /*background-image: url("../asstes/images/girl.jpg");*/
+    background-image: url("../asstes/images/men.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     height:574px;
+    width:88%;
 
 }
 .section-six .card-seciton{
     position: relative;
     top:-148px;
+    left: 83px;
 }
 .section-six .a-div>div{
     min-height:200px;
@@ -423,6 +425,8 @@ body{
 .section-six .inner-wrapper .icon-container>div{
     display:flex;
     justify-content: center;
+    margin-bottom:8px;
+    height:57px;
 }
 .section-six .inner-wrapper .icon-container .fa{
     font-size:40px;
@@ -444,8 +448,12 @@ body{
 .section-six .a-div .inner-container{
     min-height:150px;
 }
+.section-six .indus{
+    left: auto;
+}
 .section-six .div-white{
     background-color:#fff;
+    width:100%;
 }
 .section-six .activated{
     background:#283591!important;
@@ -637,6 +645,10 @@ body{
 /* form section start*/
 .form-section .extra-image{
     padding-left:0px;
+    background: url("../asstes/images/girl.jpg");
+    height: 536px;
+    background-size:141%;
+    background-repeat: no-repeat;
 }
 .form-section .extra-image img{
     width:100%;
@@ -859,6 +871,7 @@ body{
 }
 .gray-bg{
     background-color:#F1F2F3;
+    width:100%!important;
 }
 .section-six .ex-icon .fa{
     float: right;
@@ -874,6 +887,9 @@ body{
 }
 .section-six .real-state-card .text-container h2{
     color:#545454;
+}
+.section-six .real-state-card .extra-text h2{
+    font-size:18px;
 }
 /* test comment */
 .section-six .real-state-card>div:hover{

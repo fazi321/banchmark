@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/retail/purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BENCH-Home-01.2" transform="translate(-851.000000, -802.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="icon/retail/purple" transform="translate(852.000000, 802.000000)" stroke="#283591" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group-9">
+                    <path d="M10.2867,42.1345006 L32.9627,42.1345 C34.6357,42.1355 36.0627,40.9285 36.3437,39.2805 L42.3707,3.8525 C42.6507,2.2045 44.0797,0.9995 45.7507,0.9995 L47.9997,0.9995" id="Stroke-1" stroke-width="2"></path>
+                    <path d="M14.5719,47.278 C15.0459,47.278 15.4289,47.662 15.4289,48.134 C15.4289,48.608 15.0459,48.992 14.5719,48.992 C14.0989,48.992 13.7159,48.608 13.7159,48.134 C13.7159,47.662 14.0989,47.278 14.5719,47.278" id="Stroke-3" stroke-width="2"></path>
+                    <path d="M31.7145,47.278 C32.1885,47.278 32.5715,47.662 32.5715,48.134 C32.5715,48.608 32.1885,48.992 31.7145,48.992 C31.2415,48.992 30.8585,48.608 30.8585,48.134 C30.8585,47.662 31.2415,47.278 31.7145,47.278" id="Stroke-5" stroke-width="2"></path>
+                    <path d="M37.6071,31.8493 L10.0171,31.8493 C6.8721,31.8493 4.1291,29.7083 3.3661,26.6573 L0.0511,13.4003 C-0.1779,12.4813 0.3801,11.5503 1.2981,11.3213 C1.4351,11.2873 1.5751,11.2693 1.7151,11.2693 L41.1061,11.2693" id="Stroke-7" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

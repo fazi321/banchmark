@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="39px" viewBox="0 0 50 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/motorcycles</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BENCH-Home-01" transform="translate(-944.000000, -2956.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="6195"></rect>
+            <g id="icon/motorcycles" transform="translate(945.000000, 2957.000000)" stroke="#283591" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group-11">
+                    <path d="M0,36.7997 C3.519,37.2357 7.046,36.0597 9.6,33.5997 C13.19,37.5767 19.324,37.8897 23.3,34.2997 C23.545,34.0787 23.779,33.8447 24,33.5997 C27.59,37.5767 33.724,37.8897 37.7,34.2997 C37.945,34.0787 38.179,33.8447 38.4,33.5997 C40.954,36.0597 44.481,37.2357 48,36.7997" id="Stroke-1" stroke-width="2"></path>
+                    <path d="M3.2002,30.3998 L3.2002,27.1998 C3.2002,25.4328 4.6332,23.9998 6.4002,23.9998 L46.4002,23.9998 C47.2842,24.0018 48.0012,24.7198 47.9992,25.6058 C47.9982,25.9108 47.9102,26.2088 47.7462,26.4658 L45.5612,29.8618" id="Stroke-3" stroke-width="2"></path>
+                    <path d="M9.6001,23.9999 L9.6001,17.5999 C9.6001,15.8329 8.1671,14.3999 6.4001,14.3999 C4.6331,14.3999 3.2001,12.9669 3.2001,11.1999 C3.2001,9.4329 4.6331,7.9999 6.4001,7.9999 L22.5751,7.9999 C23.4831,8.0019 24.3481,8.3899 24.9541,9.0669 L38.3931,23.9999" id="Stroke-5" stroke-width="2"></path>
+                    <path d="M19.2002,7.9999 L12.8002,-0.0001" id="Stroke-7" stroke-width="2"></path>
+                    <path d="M29.7602,14.3998 L19.2002,14.3998" id="Stroke-9" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="50px" viewBox="0 0 47 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/factory/purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BENCH-Home-01.2" transform="translate(-1161.000000, -802.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="Group-2" transform="translate(100.000000, 243.000000)" stroke="#283591" stroke-linecap="round" stroke-linejoin="round">
+                <g id="icon/factory/purple" transform="translate(1062.000000, 559.000000)">
+                    <g id="Group-13">
+                        <path d="M28.8002,28.1997 L39.2852,22.9587 C40.0752,22.5637 41.0362,22.8847 41.4312,23.6757 C41.5422,23.8967 41.6002,24.1417 41.6002,24.3897 L41.6002,45.8007 C41.6002,47.5667 40.1672,48.9997 38.4002,48.9997 L3.1992,48.9997 C1.4332,48.9997 0.0002,47.5667 0.0002,45.8007 L0.0002,28.1997 L4.5292,7.0647 C4.6872,6.3277 5.3382,5.8007 6.0932,5.8007 L9.9072,5.8007 C10.6612,5.8007 11.3132,6.3277 11.4712,7.0647 L16.0002,28.1997 L26.4862,22.9587 C27.2762,22.5637 28.2372,22.8847 28.6312,23.6757 C28.7422,23.8967 28.8002,24.1417 28.8002,24.3897 L28.8002,28.1997" id="Stroke-1" stroke-width="2"></path>
+                        <path d="M16.0004,36.1997 L22.3994,36.1997" id="Stroke-3" stroke-width="2"></path>
+                        <path d="M16.0004,42.6001 L22.3994,42.6001" id="Stroke-5" stroke-width="2"></path>
+                        <path d="M28.8002,36.1997 L35.1992,36.1997" id="Stroke-7" stroke-width="2"></path>
+                        <path d="M28.8002,42.6001 L35.1992,42.6001" id="Stroke-9" stroke-width="2"></path>
+                        <path d="M16.0111,1.2534 C18.2121,1.2164 20.3951,1.6694 22.4001,2.5804 C38.2481,9.3454 44.8001,0.9994 44.8001,0.9994" id="Stroke-11" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

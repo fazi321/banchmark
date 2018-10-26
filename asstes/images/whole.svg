@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="44px" viewBox="0 0 50 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/wholesale/purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BENCH-Home-01.2" transform="translate(-1160.000000, -553.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="icon/wholesale/purple" transform="translate(1161.000000, 554.000000)" stroke="#283591" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group-15">
+                    <path d="M29.6579,38.4 L27.1999,38.4 C25.4319,38.4 23.9999,36.967 23.9999,35.2 L23.9999,24.347 C23.9989,20.981 24.9429,17.682 26.7259,14.827 C30.0089,9.583 35.7599,6.399 41.9459,6.4 C43.5209,6.4 44.7989,7.676 44.8009,9.253 L44.8009,22.4" id="Stroke-1" stroke-width="2"></path>
+                    <path d="M35.1999,28.8004 C38.7349,28.8004 41.5999,31.6654 41.5999,35.1994 C41.5999,38.7354 38.7349,41.6004 35.1999,41.6004 C31.6659,41.6004 28.8009,38.7354 28.8009,35.1994 C28.8009,31.6654 31.6659,28.8004 35.1999,28.8004 Z" id="Stroke-3" stroke-width="2"></path>
+                    <path d="M17.6003,-0.0004 L17.6003,38.3996 C17.6003,40.1676 16.1673,41.6006 14.4003,41.6006 L4.8003,41.6006" id="Stroke-5" stroke-width="2"></path>
+                    <path d="M40.7428,38.4 L47.9998,38.4" id="Stroke-7" stroke-width="2"></path>
+                    <path d="M17.6003,35.1998 L23.9993,35.1998" id="Stroke-9" stroke-width="2"></path>
+                    <path d="M47.9997,22.4 L44.8007,22.4 C41.2657,22.4 38.3997,25.265 38.3997,28.8 L38.3997,29.653" id="Stroke-11" stroke-width="2"></path>
+                    <path d="M1.0671,23.9996 L10.1331,23.9996 C10.7221,23.9996 11.2001,24.4776 11.2001,25.0666 L11.2001,34.1336 C11.2001,34.7226 10.7221,35.1996 10.1331,35.1996 L1.0671,35.1996 C0.4771,35.1996 0.0001,34.7226 0.0001,34.1336 L0.0001,25.0666 C0.0001,24.4776 0.4771,23.9996 1.0671,23.9996 Z" id="Stroke-13" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

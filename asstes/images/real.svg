@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="38px" viewBox="0 0 49 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/realestate/purple</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0790530612 0.000194736842 47.0201143 0.000194736842 47.0201143 0.973684211 0.0790530612 0.973684211"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BENCH-Home-01.2" transform="translate(-230.000000, -315.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1216"></rect>
+            <g id="icon/realestate/purple" transform="translate(231.000000, 316.000000)">
+                <g id="Group-24">
+                    <g id="Group-3" transform="translate(0.000000, 35.607242)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M0.0790530612,0.000194736842 L47.0201143,0.000194736842" id="Stroke-1" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    </g>
+                    <polygon id="Stroke-4" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.8558694 35.6074368 3.20982857 35.6074368 3.20982857 15.3898579 18.8558694 12.2799105"></polygon>
+                    <polygon id="Stroke-6" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="43.8918857 35.6074368 18.8554776 35.6074368 18.8554776 1.39606842 43.8918857 12.2799105"></polygon>
+                    <path d="M25.1151673,11.5035921 C25.5461878,11.5035921 25.8968816,11.8511974 25.8968816,12.2805921" id="Stroke-8" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M24.3315918,12.2803974 C24.3325714,11.8510026 24.6822857,11.5033974 25.1152653,11.5033974" id="Stroke-10" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M25.1151673,13.05915 C24.6831673,13.05915 24.3314939,12.7105711 24.3314939,12.2802026" id="Stroke-12" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M25.8966857,12.2803974 C25.8976653,12.7088184 25.5489306,13.0583711 25.1169306,13.0593447 L25.1149714,13.0593447" id="Stroke-14" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M37.6326857,35.6074368 L25.1154612,35.6074368 L25.1154612,26.2766211 C25.1154612,24.5551474 26.5182367,23.1608316 28.2501551,23.1608316 L34.5185633,23.1608316 C36.2504816,23.1608316 37.6532571,24.5551474 37.6532571,26.2766211 L37.6326857,35.6074368 Z" id="Stroke-16" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M-0.000293877551,16.0296658 L18.8558694,12.2800079" id="Stroke-18" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M15.6482939,0 L47.0128653,13.6364474" id="Stroke-20" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-22" stroke="#283591" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="37.6326857 9.54045 37.6326857 1.39558158 43.8922776 1.39558158 43.8922776 12.2803974"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
